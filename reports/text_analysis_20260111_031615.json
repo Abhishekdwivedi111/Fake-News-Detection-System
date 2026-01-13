@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "A group of secret scientists has reportedly discovered a breathing technique that allows humans to survive without eating any food for up to six months. According to viral social media posts, this method activates hidden energy sources inside the body.\n\nPeople who attended private training camps claim they felt no hunger after practicing the method for only three days. Trainers say this technique can also cure diabetes, heart disease, and even reverse aging.\n\nHospitals and doctors are said to be hiding this information because it would reduce medicine sales. The training course is being sold online and is expected to become mandatory in schools soon.\n\nExperts who questioned the discovery were allegedly removed from research institutes, proving that powerful groups are trying to suppress the truth.",
+    "analysis": {
+        "credibility_score": 28,
+        "factual_accuracy": {
+            "score": 28,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 18,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 8,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 0,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 72% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T03:16:15.010125"
+}

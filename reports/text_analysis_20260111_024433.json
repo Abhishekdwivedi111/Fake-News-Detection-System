@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "Health officials have reported a gradual decline in seasonal flu cases over the past three weeks, indicating that the worst phase of the outbreak may be over. Hospitals that had been operating at near capacity are now seeing fewer emergency admissions related to respiratory complications.\n\nDoctors emphasized the importance of continued vaccination and hygiene practices, especially for elderly individuals and those with chronic illnesses. The Health Department stated that awareness campaigns conducted in schools and workplaces played a significant role in slowing transmission rates.\n\nAuthorities are also monitoring new virus variants but said there is currently no evidence suggesting increased severity. Citizens were advised to seek medical attention if symptoms persist and to avoid self-medication without professional guidance.",
+    "analysis": {
+        "credibility_score": 44,
+        "factual_accuracy": {
+            "score": 44,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 34,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 24,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 14,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 56% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T02:44:33.204574"
+}

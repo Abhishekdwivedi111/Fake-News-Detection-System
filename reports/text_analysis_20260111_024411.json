@@ -1,0 +1,32 @@
+{
+    "input_type": "text",
+    "content": "The government on Monday announced a new set of economic measures aimed at supporting small and medium-sized businesses affected by rising inflation and high interest rates. Officials said the package includes easier access to credit, reduced compliance requirements, and targeted tax relief for manufacturing and service-sector companies.\n\nAccording to the Finance Ministry, the program is expected to benefit nearly five million businesses across the country and generate additional employment opportunities over the next two years. Industry leaders welcomed the decision, stating that many firms have been struggling with increased operational costs and reduced consumer demand.\n\nEconomists, however, cautioned that while short-term relief is necessary, long-term structural reforms are also required to improve productivity and competitiveness. The government said it will review the impact of the measures every quarter and adjust policies based on economic indicators and feedback from stakeholders.",
+    "analysis": {
+        "credibility_score": 70,
+        "factual_accuracy": {
+            "score": 70,
+            "factual_issues": []
+        },
+        "source_credibility": {
+            "score": 75,
+            "source_analysis": "ML model prediction: REAL. Source appears credible based on text patterns."
+        },
+        "bias_detection": {
+            "score": 80,
+            "bias_type": "unknown",
+            "bias_analysis": "Text analysis suggests balanced reporting."
+        },
+        "clickbait_detection": {
+            "score": 85,
+            "clickbait_analysis": "Content appears to be standard news format."
+        },
+        "insights": "The ML model indicates this content appears to be REAL news with 70% confidence based on text analysis patterns.",
+        "recommendations": [
+            "Verify the source independently",
+            "Check for multiple reliable sources confirming the information",
+            "Look for publication date and author information"
+        ],
+        "ml_model_label": "REAL"
+    },
+    "timestamp": "2026-01-11T02:44:11.224790"
+}

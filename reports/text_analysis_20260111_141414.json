@@ -1,0 +1,32 @@
+{
+    "input_type": "text",
+    "content": "ausfykashfhsadjkfh",
+    "analysis": {
+        "credibility_score": 0,
+        "factual_accuracy": {
+            "score": 0,
+            "factual_issues": [
+                "Error analyzing text"
+            ]
+        },
+        "source_credibility": {
+            "score": 0,
+            "source_analysis": "Error analyzing source"
+        },
+        "bias_detection": {
+            "score": 0,
+            "bias_type": "unknown",
+            "bias_analysis": "Error analyzing bias"
+        },
+        "clickbait_detection": {
+            "score": 0,
+            "clickbait_analysis": "Error analyzing clickbait elements"
+        },
+        "insights": "Error generating insights",
+        "recommendations": [
+            "Please try again or use a different text"
+        ],
+        "ml_model_label": "UNKNOWN"
+    },
+    "timestamp": "2026-01-11T14:14:14.156476"
+}

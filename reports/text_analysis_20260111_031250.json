@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "Breaking news! The government has secretly approved a new scheme that will give \u20b950,000 directly to every citizen starting next Monday. People only need to submit their Aadhaar number, bank account details, and mobile OTP to receive the money instantly.\n\nSources claim that this decision was taken late at night and will not be officially announced on television. Citizens are requested to quickly forward this message to family and friends so that everyone can register before the deadline expires tonight.\n\nOfficials have guaranteed that the money will be transferred within 10 minutes of submitting details. Many people have already received confirmation messages, proving that the scheme is real and verified.\n\nDo not miss this golden opportunity. Register now before the government portal is closed permanently.",
+    "analysis": {
+        "credibility_score": 32,
+        "factual_accuracy": {
+            "score": 32,
+            "factual_issues": [
+                "Potential misinformation detected"
+            ]
+        },
+        "source_credibility": {
+            "score": 22,
+            "source_analysis": "ML confidence level: FAKE"
+        },
+        "bias_detection": {
+            "score": 12,
+            "bias_type": "potential",
+            "bias_analysis": "Potential misleading tone detected."
+        },
+        "clickbait_detection": {
+            "score": 2,
+            "clickbait_analysis": "Possible clickbait or exaggerated claims."
+        },
+        "insights": "The ML model classifies this content as FAKE with 68% likelihood of being fake.",
+        "recommendations": [
+            "Cross-check with reliable news portals",
+            "Use fact-checking websites",
+            "Avoid sharing unverified claims",
+            "Be cautious of sensational language"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T03:12:50.280731"
+}

@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "A leaked document claims that powerful machines installed in remote locations are being used to manipulate storms and droughts. Authorities are allegedly using this technology to influence agricultural production and global markets.",
+    "analysis": {
+        "credibility_score": 13,
+        "factual_accuracy": {
+            "score": 13,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 3,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 0,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 0,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 87% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T02:42:47.645631"
+}

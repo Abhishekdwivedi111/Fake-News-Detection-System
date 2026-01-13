@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "Scientists have reportedly discovered a way to instantly recharge mobile phones by placing them under sunlight for just ten seconds, according to viral social media posts. The claim suggests that all existing charging technology will soon become obsolete and that telecom companies are trying to suppress the discovery. Experts, however, say there is no scientific evidence to support the idea of such rapid solar charging for standard smartphone batteries.",
+    "analysis": {
+        "credibility_score": 6,
+        "factual_accuracy": {
+            "score": 6,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 0,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 0,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 0,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 94% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T01:57:40.743495"
+}

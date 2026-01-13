@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "NEW YORK, N.Y. \u00e2\u20ac\u201d If Hillary Clinton is winning the Democratic presidential race, why has it felt like she\u00e2\u20ac\u2122s losing? Yes, Mrs. Clinton scored an important victory in New York Tuesday, winning her adopted home state in the primary. But should the outcome ever have been in doubt?As a former senator from New York she [\u00e2\u20ac\u00a6]\n",
+    "analysis": {
+        "credibility_score": 44,
+        "factual_accuracy": {
+            "score": 44,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 34,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 24,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 14,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 56% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T01:52:48.820681"
+}

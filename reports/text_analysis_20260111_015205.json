@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "\"NEW YORK -- Bye bye June rate hike. That was the billboard-size\u00c2\u00a0headline from Wall Street trading desks after the U.S. job-creation machine hit the wall in May. The government said 38,000 jobs were created in May, way, way, way\u00c2\u00a0\u00c2\u00a0below the roughly 160,000 new positions Wall Street economists had been expecting.\n\nIt was the worst month for job creation since September 2010.\n\nThe Janet Yellen-led Federal Reserve had been driving home the message that it was \"\"appropriate\"\" to hike interest rates in coming months \u00e2\u20ac\u201c\u00c2\u00a0and perhaps as early as June \u00e2\u20ac\u201c\u00c2\u00a0IF the job market and economy continued to perform well and meet their more upbeat forecast.\n\nBut the May\u00c2\u00a0jobs report was bad. Really bad.\n\n\"\"Horrible,\"\" is the word used by Steven Ricchiuto, chief economist at MSUSA. \"\"Very weak,\"\" chimed in Chris Gaffney, president of world markets at EverBank. Donald Trump, the presumptive Republican presidential nominee, tweeted out that\u00c2\u00a0the lousy jobs number amounted to a \u00c2\u00a0\"\"bombshell.\"\"\n\nA bombshell, indeed. So weak was the 38,000 May job count, that Wall Street now sees virtually a zero chance of the Fed moving at its June meeting, which breaks up on June 15.\n\n\"\"This is the weakest number of workers added in almost six years,\"\" Gaffney told USA TODAY via e-mail.\n\nAfter the dreadful jobs report was released, the odds of a June hike plunged to about 4%, down sharply from 19% before the data were\u00c2\u00a0released, according to futures markets tracked by the CME Group.\n\n\"\"Just when they thought it was safe to go back into the water,\"\" the Fed gets hit with this less-than-stellar data point on jobs, Ricchiuto told clients in a report.\u00c2\u00a0\"\"This now assures that June is off the table, but may not rule out July.\"\"\n\nBut professional investors are still not willing to rule out a hike in July \u00e2\u20ac\u201c\u00c2\u00a0at least not yet as there is a lot of economic data to come between now and July.\u00c2\u00a0The chances of a July hike plunged to 34% from close to 60%.\n\nThe market reaction was swift. Stocks dipped\u00c2\u00a0as investors now have to worry about a possible slowdown in job creation, which is a negative for the economy. \"\"Risks about the strength of the U.S. economy outweigh the positive impacts of lower interest rates,\"\" Gaffney said.\n\nBond yields fell, as investors piled back into U.S. government bonds as the threat of an imminent Fed rate hike fade. The U.S. dollar weakened as the Fed's rate-hike timetable gets pushed back.\n\nSure the unemployment rate ticked down to 4.7%. But while that number sounds good it is mainly due to \"\"another big drop in the labor force,\"\" says Paul Ashworth, chief U.S. economist at Capital Economics.\n\nYellen is scheduled to speak on Monday, Ashworth adds. Wall Street will be listening \u00e2\u20ac\u201c\u00c2\u00a0closely.\n\n\"\"Yellen should provide more insight on the Fed's thinking Monday,\"\" he said via e-mail.\"\n",
+    "analysis": {
+        "credibility_score": 48,
+        "factual_accuracy": {
+            "score": 48,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 38,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 28,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 18,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 52% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T01:52:05.239932"
+}

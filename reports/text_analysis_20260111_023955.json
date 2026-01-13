@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "ISRO successfully launched a new meteorological satellite on Friday to enhance weather prediction and disaster management across India. The satellite will provide high-resolution images and real-time data to help monitor cyclones and heavy rainfall more accurately.",
+    "analysis": {
+        "credibility_score": 27,
+        "factual_accuracy": {
+            "score": 27,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 17,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 7,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 0,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 73% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T02:39:55.666969"
+}

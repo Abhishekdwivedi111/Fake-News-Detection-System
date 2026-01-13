@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "The Ministry of Skill Development and Entrepreneurship on Tuesday announced a new nationwide initiative aimed at improving employment opportunities for rural youth. The program will focus on providing training in digital literacy, basic programming, solar panel installation, and small business management.\n\nAccording to officials, the initiative will be implemented in collaboration with state governments, local training centers, and private sector partners. The ministry stated that more than 500,000 students are expected to benefit during the first phase of the program, which will run for twelve months.\n\nA senior ministry official said that special emphasis will be placed on districts with higher unemployment rates. Training centers will also offer placement assistance and certification recognized by industry bodies. The government has allocated a budget of \u20b91,200 crore for the project under the current financial year.\n\nExperts in the education sector welcomed the move, saying that skill-based training is essential for improving job readiness among young people. However, they also stressed the need for proper monitoring to ensure quality and transparency in implementation.",
+    "analysis": {
+        "credibility_score": 53,
+        "factual_accuracy": {
+            "score": 53,
+            "factual_issues": [
+                "Potential misinformation detected"
+            ]
+        },
+        "source_credibility": {
+            "score": 43,
+            "source_analysis": "ML confidence level: UNCERTAIN"
+        },
+        "bias_detection": {
+            "score": 33,
+            "bias_type": "potential",
+            "bias_analysis": "Potential misleading tone detected."
+        },
+        "clickbait_detection": {
+            "score": 23,
+            "clickbait_analysis": "Possible clickbait or exaggerated claims."
+        },
+        "insights": "The ML model classifies this content as UNCERTAIN with 47% likelihood of being fake.",
+        "recommendations": [
+            "Cross-check with reliable news portals",
+            "Use fact-checking websites",
+            "Avoid sharing unverified claims",
+            "Be cautious of sensational language"
+        ],
+        "ml_model_label": "UNCERTAIN"
+    },
+    "timestamp": "2026-01-11T03:12:33.307820"
+}

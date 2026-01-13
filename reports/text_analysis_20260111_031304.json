@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "A newly launched herbal beverage is being promoted as a solution for improving memory and concentration among students and working professionals. According to the company, the drink contains a blend of natural ingredients traditionally used in alternative medicine systems.\n\nThe company claims that regular consumption can help improve mental clarity, reduce stress, and enhance learning ability. Several social media influencers have shared positive experiences after using the product for two weeks.\n\nHowever, medical experts have stated that there is currently limited scientific evidence to support such claims. While some ingredients are known to have mild calming effects, experts say more controlled clinical trials are required to confirm the effectiveness of the product.\n\nConsumer groups have advised people to consult doctors before relying on supplements for cognitive improvement, especially those with existing medical conditions.",
+    "analysis": {
+        "credibility_score": 13,
+        "factual_accuracy": {
+            "score": 13,
+            "factual_issues": [
+                "Potential misinformation detected"
+            ]
+        },
+        "source_credibility": {
+            "score": 3,
+            "source_analysis": "ML confidence level: FAKE"
+        },
+        "bias_detection": {
+            "score": 0,
+            "bias_type": "potential",
+            "bias_analysis": "Potential misleading tone detected."
+        },
+        "clickbait_detection": {
+            "score": 0,
+            "clickbait_analysis": "Possible clickbait or exaggerated claims."
+        },
+        "insights": "The ML model classifies this content as FAKE with 87% likelihood of being fake.",
+        "recommendations": [
+            "Cross-check with reliable news portals",
+            "Use fact-checking websites",
+            "Avoid sharing unverified claims",
+            "Be cautious of sensational language"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T03:13:04.196428"
+}

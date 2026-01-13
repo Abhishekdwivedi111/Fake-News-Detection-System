@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "In a shocking revelation, secret government insiders have confirmed that a hidden agreement has been signed with powerful foreign organizations to control the daily lives of ordinary citizens. According to these unnamed sources, new laws will soon allow authorities to monitor private conversations through household appliances and mobile devices without any legal permission.\n\nThe report claims that special chips have already been installed in most electronic products sold over the past year, enabling constant surveillance and behavior tracking. Citizens are allegedly being categorized into risk groups, and those labeled as \u201cnon-compliant\u201d will face restrictions on travel, banking, and employment opportunities.\n\nDespite no official confirmation from any department, the sources insist that the public is being deliberately kept in the dark to avoid mass protests. Social media users are being urged to share this information widely before it is removed by government-controlled platforms.",
+    "analysis": {
+        "credibility_score": 36,
+        "factual_accuracy": {
+            "score": 36,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 26,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 16,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 6,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 64% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T02:44:22.023456"
+}

@@ -1,0 +1,32 @@
+{
+    "input_type": "text",
+    "content": "The Reserve Bank of India on Friday announced that it would maintain the current repo rate, citing persistent inflationary pressures and global economic uncertainty. The decision was taken during the Monetary Policy Committee meeting after reviewing domestic growth indicators.\n\nThe central bank stated that while economic activity remains stable, rising food and fuel prices continue to pose risks to inflation targets. Officials reiterated their commitment to maintaining price stability while supporting sustainable economic growth.\n\nMarket analysts said the decision was largely expected and would help maintain liquidity in the banking system. The RBI also projected moderate GDP growth for the next financial year, depending on global trade conditions and investment trends.",
+    "analysis": {
+        "credibility_score": 70,
+        "factual_accuracy": {
+            "score": 70,
+            "factual_issues": []
+        },
+        "source_credibility": {
+            "score": 75,
+            "source_analysis": "ML model prediction: REAL. Source appears credible based on text patterns."
+        },
+        "bias_detection": {
+            "score": 80,
+            "bias_type": "unknown",
+            "bias_analysis": "Text analysis suggests balanced reporting."
+        },
+        "clickbait_detection": {
+            "score": 85,
+            "clickbait_analysis": "Content appears to be standard news format."
+        },
+        "insights": "The ML model indicates this content appears to be REAL news with 70% confidence based on text analysis patterns.",
+        "recommendations": [
+            "Verify the source independently",
+            "Check for multiple reliable sources confirming the information",
+            "Look for publication date and author information"
+        ],
+        "ml_model_label": "REAL"
+    },
+    "timestamp": "2026-01-11T03:15:56.874631"
+}

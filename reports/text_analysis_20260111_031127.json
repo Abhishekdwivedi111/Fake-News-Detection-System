@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "The Ministry of Education has approved funding for the construction of new classrooms and digital laboratories in government colleges to improve access to technical education. Officials said the investment will focus on rural and semi-urban areas where infrastructure gaps have affected enrollment rates. The program will also include teacher training initiatives to support the use of modern teaching tools and online learning platforms over the next academic year.",
+    "analysis": {
+        "credibility_score": 54,
+        "factual_accuracy": {
+            "score": 54,
+            "factual_issues": [
+                "Potential misinformation detected"
+            ]
+        },
+        "source_credibility": {
+            "score": 44,
+            "source_analysis": "ML confidence level: UNCERTAIN"
+        },
+        "bias_detection": {
+            "score": 34,
+            "bias_type": "potential",
+            "bias_analysis": "Potential misleading tone detected."
+        },
+        "clickbait_detection": {
+            "score": 24,
+            "clickbait_analysis": "Possible clickbait or exaggerated claims."
+        },
+        "insights": "The ML model classifies this content as UNCERTAIN with 46% likelihood of being fake.",
+        "recommendations": [
+            "Cross-check with reliable news portals",
+            "Use fact-checking websites",
+            "Avoid sharing unverified claims",
+            "Be cautious of sensational language"
+        ],
+        "ml_model_label": "UNCERTAIN"
+    },
+    "timestamp": "2026-01-11T03:11:27.365094"
+}

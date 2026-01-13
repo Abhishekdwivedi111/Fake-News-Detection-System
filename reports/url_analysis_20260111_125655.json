@@ -1,0 +1,36 @@
+{
+    "input_type": "url",
+    "url": "https://github.com/codebasics/langgraph-crash-course/blob/main/8_HITL.py",
+    "content": "Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert codebasics / langgraph-crash-course Public Notifications You must be signed in to change notification settings Fork 61 Star 82 You can\u2019t perform that action at this time.",
+    "analysis": {
+        "credibility_score": 8,
+        "factual_accuracy": {
+            "score": 8,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 0,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns. Domain: github.com"
+        },
+        "bias_detection": {
+            "score": 0,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 0,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 92% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T12:56:55.809806"
+}

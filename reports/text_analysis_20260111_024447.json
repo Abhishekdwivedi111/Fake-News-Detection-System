@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "A viral report circulating online claims that hospitals are secretly injecting patients with experimental substances designed to change human behavior. The story alleges that medical staff are being forced to follow confidential orders from international agencies and that patients are never informed about the real purpose of these injections.\n\nThe article further claims that these substances are responsible for sudden mood changes, memory loss, and reduced ability to question authority. It warns families to avoid hospitals entirely and instead rely on unverified home remedies promoted by anonymous internet groups.\n\nNo scientific evidence or verified medical sources are provided to support these claims, but the report insists that mainstream media is intentionally hiding the truth to protect powerful interests.",
+    "analysis": {
+        "credibility_score": 16,
+        "factual_accuracy": {
+            "score": 16,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 6,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 0,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 0,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 84% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T02:44:47.461304"
+}

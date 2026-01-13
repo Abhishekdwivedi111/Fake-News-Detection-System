@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "Officials from the city labor department have indicated that a pilot program for a four-day work week may be introduced for certain IT companies. The proposal is reportedly under discussion with industry associations and worker unions.\n\nSome companies have already experimented with reduced working hours and reported improvements in employee satisfaction. However, productivity outcomes have varied depending on the type of work and company policies.\n\nGovernment representatives have not yet released formal documentation, and no timeline has been confirmed. Experts say that while such programs can improve work-life balance, implementation challenges remain, especially for service-based industries.\n\nUntil an official announcement is made, the proposal remains under consideration and may undergo further revisions.",
+    "analysis": {
+        "credibility_score": 42,
+        "factual_accuracy": {
+            "score": 42,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 32,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 22,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 12,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 58% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T03:15:44.709470"
+}

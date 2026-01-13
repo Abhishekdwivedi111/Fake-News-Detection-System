@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "Breaking news! The government has secretly approved a new scheme that will give \u20b950,000 directly to every citizen starting next Monday. People only need to submit their Aadhaar number, bank account details, and mobile OTP to receive the money instantly.\n\nSources claim that this decision was taken late at night and will not be officially announced on television. Citizens are requested to quickly forward this message to family and friends so that everyone can register before the deadline expires tonight.\n\nOfficials have guaranteed that the money will be transferred within 10 minutes of submitting details. Many people have already received confirmation messages, proving that the scheme is real and verified.\n\nDo not miss this golden opportunity. Register now before the government portal is closed permanently.",
+    "analysis": {
+        "credibility_score": 32,
+        "factual_accuracy": {
+            "score": 32,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 22,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 12,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 2,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 68% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T03:14:15.368320"
+}

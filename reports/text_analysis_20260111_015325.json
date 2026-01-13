@@ -1,0 +1,35 @@
+{
+    "input_type": "text",
+    "content": "\"Leave a reply \nBill Still \u00e2\u20ac\u201c Good evening, I\u00e2\u20ac\u2122m still reporting on an ongoing counter-coup being run by patriotic members of 17 U.S. intelligence agencies to stop the Clinton Crime syndicate from proceeding with the rigging of the coming election. \nAccording to a 4 minute video, done by Dr. Steve Pieczenik, a Harvard and MIT-educated psychiatrist who has written 26 New York Times Best Sellers, the Clinton coup has been put down by an intelligence community counter-coup, effective at noon today. \nDr. Pieczenik has great contacts in the American intelligence community. He put the following video up on his YouTube channel at noon today and says that the channel was down twenty minutes later. \nCurrently, that channel is up, so perhaps our channel will not be harmed. \nI believe what you are about to see is true because of the nature of the recent WikiLeaks revelations. To me, hackers could not have done this. To me, white hats at NSA had to have been involved. \nHaving spent my adult life working around the community, I knew that folks who were at most of these agencies \u00e2\u20ac\u201c exempting DHS and CIA \u00e2\u20ac\u201c are American patriots who would not allow this nation to be destroyed by the Clinton Crime Syndicate. \n[insert] \nThis may well be the reason President Obama yesterday had his press secretary praise the work of Jim Comey, head of the FBI, at the very moment that Hillary Clinton was speaking in Florida deriding Comey. Let us all pray that Comey has actually turned away from being subservient to Obama and the Clintons and has now joined forces with the vast majority of the American military/intelligence community and Obama has decided \u00e2\u20ac\u201c for his own preservation \u00e2\u20ac\u201c to not fight them. I\u00e2\u20ac\u2122m still reporting from Washington; good evening. \nBill Still is a former newspaper editor and publisher. He has written for USA Today, The Saturday Evening Post, the Los Angeles Times Syndicate, OMNI magazine, and has also produced the syndicated radio program, Health News. He has written 22 books and two documentary videos and is the host of his wildly popular daily YouTube Channel the \u00e2\u20ac\u0153Still Report\u00e2\u20ac\u009d, the quintessential report on the economy and Washington. Share this:\"\n",
+    "analysis": {
+        "credibility_score": 12,
+        "factual_accuracy": {
+            "score": 12,
+            "factual_issues": [
+                "Potential misinformation detected by ML model"
+            ]
+        },
+        "source_credibility": {
+            "score": 2,
+            "source_analysis": "ML model prediction: FAKE. Source credibility questionable based on text patterns."
+        },
+        "bias_detection": {
+            "score": 0,
+            "bias_type": "potential",
+            "bias_analysis": "Text patterns indicate potential bias or misleading information."
+        },
+        "clickbait_detection": {
+            "score": 0,
+            "clickbait_analysis": "Content may contain clickbait or sensationalist elements."
+        },
+        "insights": "The ML model indicates this content appears to be FAKE news with 88% confidence based on text analysis patterns. Exercise caution and verify from reliable sources.",
+        "recommendations": [
+            "Cross-check with established news sources",
+            "Verify claims with fact-checking websites",
+            "Be skeptical of sensational claims",
+            "Check the publication date and source credibility"
+        ],
+        "ml_model_label": "FAKE"
+    },
+    "timestamp": "2026-01-11T01:53:25.562986"
+}
