@@ -2,6 +2,9 @@
 
 A machine learning-based web application that detects fake news using Random Forest classifier and NLP techniques. Built with Streamlit for an intuitive user interface.
 
+[![Live App](https://img.shields.io/badge/Streamlit-Live-brightgreen)](https://fake-news-detection-system-lfmyo8mzhohrqgyjqdu7lh.streamlit.app/)
+
+Try the app online to analyze news articles or social media posts in real-time and get FAKE/REAL predictions instantly.
 ## 🚀 Features
 
 - **Text Analysis**: Analyze news articles, social media posts, or any text content
